@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Monokuma! I'm from 🇩🇪</h2>
+<h2 align="left">Hi 👋! My name is Monokuma! I'm from 🇦🇱</h2>
 
 ###
 
